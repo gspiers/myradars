@@ -2,6 +2,8 @@
 
 Number | Status | Title and Sample Project
 --- | --- | ---
+[45189495](https://openradar.appspot.com/radar?id=6162929086889984) | Open | [UITabBar layout is broken when using additionalSafeAreaInsets on iOS 12.1](https://github.com/gspiers/radar_45189495)
+[42724886](https://openradar.appspot.com/radar?id=5040756565737472) | Open | INPlayMediaIntent triggered from Alarm App
 [34839255](https://openradar.appspot.com/radar?id=4930757596282880) | Open | [UICollectionViewFlowLayout section headers ignore zIndex of layoutAttributes](https://github.com/gspiers/radar_34839255)
 [33566664](https://openradar.appspot.com/radar?id=5039159550935040) | Closed | CarPlay does not start when using the Network Link Conditioner on device
 [33450609](https://openradar.appspot.com/radar?id=4934665848750080) | Open | [NSBundle for class is incorrect for Swift generic classes in frameworks](https://github.com/gspiers/radar_33450609)
