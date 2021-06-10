@@ -11,3 +11,4 @@ Number | Status | Title and Sample Project
 [33396970](https://openradar.appspot.com/radar?id=4934423988404224) | Open | [UIContentContainer and propagating size changes to child view controllers](https://github.com/gspiers/radar_33396970)
 [33143169](https://openradar.appspot.com/radar?id=5052401908187136) | Open | [NSByteCountFormatter add unitsStyle to make VoiceOver labels easier to build](https://github.com/gspiers/radar_33143169)
 [32270378](https://openradar.appspot.com/radar?id=4986273773125632) | Closed | [NSURLSession caching problem when using gzip Content-Encoding and conditional GETs](https://github.com/gspiers/radar_32270378)
+FB8722886 | Open (partly fixed in iOS 15, acknowledged in WWDC Lab) | [UICollectionViewCompositionalLayout: Pinned boundary supplementary items disappear when layout contains sections with orthogonal scrolling.](https://github.com/gspiers/FB8722886)
